@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there! 👋
+I’m YASASSWINI IDIMUKKULA, an aspiring Java Full Stack Developer passionate about building scalable applications, clean architectures, and seamless user experiences. I enjoy turning ideas into fully functional web solutions — from designing responsive UIs to engineering robust backend services. With a strong interest in both frontend design and backend logic, I love working across the entire development stack to build meaningful applications. 💻✨
 
-<!--
-**yasasswini08/yasasswini08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Build
+	•	Full-stack web applications using Java, Spring Boot, Hibernate, Microservices
+	•	Responsive and interactive interfaces using HTML, CSS, JavaScript, React
+	•	REST APIs, authentication flows, and backend application logic
+	•	Database-driven features using MySQL
+	•	Mini-projects, APIs, and real-world problem-solving applications
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+	•	Microservices with Spring Cloud
+	•	Advanced React concepts
+	•	CI/CD and deployment workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What Excites Me
+	•	Designing clean and user-friendly interfaces
+	•	Turning ideas into real applications
+	•	Learning and improving through debugging and experimentation
+
+⭐ Fun Fact
+    I enjoy fixing errors more than writing code — that’s where the real learning happens. 😄🔍
